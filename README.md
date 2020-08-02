@@ -1,6 +1,8 @@
 # latihan_draggable_dragtarget_sizedbox_material
 
-A new Flutter project.
+Latihan untuk memindahkan sebuah lingkaran yang berwarna ke lingkaran yang ada di baris ke dua
+dimana warna lingkaran yang di bawahnya akan berubah sesuai dengan lingkaran yang di drag
+
 
 ## Getting Started
 
